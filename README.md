@@ -1,4 +1,6 @@
-Demo Chat app for demo DevOps workshop - IT Akademija
+DevOps workshop - IT Akademija
+===
+Demo Chat App
 ===
  
 A chat application built with Node.js and socket.io.
